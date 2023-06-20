@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OsamaBinZaheer
+- 👀 I’m interested in web application designing
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on java applications
+- 📫 You can reach me on my mail osama@trillo.io
